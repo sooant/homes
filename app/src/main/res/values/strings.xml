@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">helloworld</string>
+    <string name="app_name">알려줘홈즈</string>
     <string name="log_button">login</string>
     <string name="toast_message">hellotoast</string>
 </resources>
